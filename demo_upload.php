@@ -87,7 +87,6 @@ if(isset($_POST['submit'])){
                 $result .= "Đường dẫn vật lý: $dir_uploads/$avatar_name <br>";
                 $result .= "Kích thước file Mb: $avatar_size_mb ";
             }
-
         }
     }
     
